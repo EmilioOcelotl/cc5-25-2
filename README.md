@@ -6,7 +6,7 @@ En este curso abordaremos el renderizado de gráficos en tiempo real, visualizac
 
 ## Sesiones
 
-- [ ] Sesión 01 - 06.02.24 - Introducción, discusión y conformación de equipos.
+- [ ] [Sesión 01](./s01/s01.md) - 06.02.24 - Introducción, discusión y conformación de equipos.
 
 ## Enlaces relevantes
 
